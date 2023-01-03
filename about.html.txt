@@ -1,2 +1,4 @@
-this is About Us Page
-Dev 1 changes code agian for conflict
+this is first commit
+this is feature2
+this is feature1
+
